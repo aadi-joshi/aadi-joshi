@@ -2,9 +2,11 @@ name: GitHub-Profile-3D-Contrib
 
 on:
   schedule:
-    # Runs at 18:00 UTC daily (adjust this time as needed)
     - cron: "0 18 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
