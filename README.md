@@ -16,4 +16,3 @@
 
   ![Profile Views](https://komarev.com/ghpvc/?username=aadi-joshi&style=flat-square&color=8cc84b)
 </div>
-
