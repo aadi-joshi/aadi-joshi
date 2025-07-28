@@ -6,7 +6,7 @@
   
   ## I mainly work with
   
-  <img src="https://skillicons.dev/icons?i=cpp,tensorflow,mongodb,react,nodejs,tailwind,flutter,blender" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=cpp,tensorflow,mongodb,react,nodejs,tailwind,kali,flutter,blender" alt="Tech Stack" />
 <hr>
 
   <div align="center">
