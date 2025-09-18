@@ -10,7 +10,7 @@
 <hr>
 
   <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aadi-joshi&show_icons=true&theme=react&bg_color=151515&border_color=3a3a3a&title_color=61dbfb&text_color=c9cacc&icon_color=8cc84b" alt="GitHub Stats" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=aadi-joshi&show_icons=true&theme=react&bg_color=151515&border_color=3a3a3a&title_color=61dbfb&text_color=c9cacc&icon_color=8cc84b" alt="GitHub Stats" /> -->
 
   <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" width="85%" />
 
