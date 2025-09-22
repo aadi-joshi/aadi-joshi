@@ -1,6 +1,6 @@
-# Hello, I'm Aadi 👋
+# Hello, I'm <a href="https://www.aadijoshi.com">Aadi</a> 👋
   
-<a href="https://www.linkedin.com/in/aadijoshi-india"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" /></a> <a href="mailto:toaadijoshi@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40" /></a>
+<a href="https://www.linkedin.com/in/aadijoshi-india"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" /></a> <a href="mailto:toaadijoshi@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40" /></a><a href="mailto:toaadijoshi@gmail.com"><img src="https://skillicons.dev/icons?i=website" alt="Gmail" width="40" /></a>
 
 
   
