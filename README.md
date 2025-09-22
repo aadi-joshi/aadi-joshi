@@ -14,5 +14,5 @@
 
   <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" width="85%" />
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=aadi-joshi&style=flat-square&color=8cc84b)
+  <!-- ![Profile Views](https://komarev.com/ghpvc/?username=aadi-joshi&style=flat-square&color=8cc84b) -->
 </div>
