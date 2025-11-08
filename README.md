@@ -8,11 +8,6 @@
   
   <img src="https://skillicons.dev/icons?i=cpp,tensorflow,pytorch,mongodb,react,nodejs,tailwind,kali,flutter,blender" alt="Tech Stack" />
 <hr>
-
-
-### Activity graph for public repos:
-<!--### Full activity graph:
-###### (includes private repos and leetcode submissions) -->
   
   <div align="center">
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=aadi-joshi&show_icons=true&theme=react&bg_color=151515&border_color=3a3a3a&title_color=61dbfb&text_color=c9cacc&icon_color=8cc84b" alt="GitHub Stats" /> -->
