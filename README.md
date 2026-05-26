@@ -1,12 +1,10 @@
-# Hello, I'm <a href="https://www.aadijoshi.com">Aadi</a> 👋
+## Contacts
   
 <a href="https://www.linkedin.com/in/aadijoshi-india"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" /></a> <a href="mailto:toaadijoshi@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40" /></a><a href="mailto:toaadijoshi@gmail.com"><img src="https://skillicons.dev/icons?i=website" alt="Gmail" width="40" /></a>
-
-
   
   ## I mainly work with
   
-  <img src="https://skillicons.dev/icons?i=cpp,tensorflow,pytorch,mongodb,react,nodejs,tailwind,kali,flutter,blender" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,aws,cpp,next,flutter,blender" alt="Tech Stack" />
 <hr>
   
   <div align="center">
